@@ -1,0 +1,32 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url('https://www.tcsjohnhuxley.com/wp-content/uploads/2018/04/Saturn_Glo-860x573.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+img{
+  height: 200px;
+}
+
+.jumbotron{
+  background-color: #03000408;
+}
+
+.jumbotron h1{
+  color: white;
+  padding-left: 68%;
+}
+
+.gameBoard{
+  margin-left: 59%;
+  margin-right: -14%;
+}
+
+.submitBet{
+  margin-right: -60%
+}
+
+h2{
+  color: white;
+}
